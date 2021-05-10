@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SgQO1jQ5fIvrWmCLdRDB28SHc7bF2t8sbFwTsOwvnH1uuUBdqFESW3vz9pM3glDP/L0D3JVr+rn8HbSdRLO0EA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\donag\\Documents\\Documents\\A COURS CESI\\A3\\RattrapageC--main\\métier\\métier.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\donag\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

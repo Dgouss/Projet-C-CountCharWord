@@ -1,0 +1,48 @@
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\WpfApp1\bin\Debug\netcoreapp3.1\métier.exe
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.exe
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.deps.json
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.json
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.dev.json
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.dll
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.pdb
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\WpfApp1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\WpfApp1\bin\Debug\netcoreapp3.1\métier.dll
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\WpfApp1\bin\Debug\netcoreapp3.1\métier.pdb
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csprojAssemblyReference.cache
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\WpfApp1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.cache
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.lref
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfo.cs
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.CopyComplete
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.dll
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.pdb
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.genruntimeconfig.cache
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.g.resources
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\WpfApp1\bin\Debug\netcoreapp3.1\métier.exe
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.exe
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.deps.json
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.json
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.dev.json
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.dll
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.pdb
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\WpfApp1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\WpfApp1\bin\Debug\netcoreapp3.1\métier.dll
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\WpfApp1\bin\Debug\netcoreapp3.1\métier.pdb
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csprojAssemblyReference.cache
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\WpfApp1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.cache
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.lref
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.g.resources
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfo.cs
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.CopyComplete
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.dll
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.pdb
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.genruntimeconfig.cache

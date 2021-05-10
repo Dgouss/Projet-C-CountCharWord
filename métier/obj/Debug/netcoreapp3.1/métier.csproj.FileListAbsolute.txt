@@ -1,0 +1,30 @@
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\métier\bin\Debug\netcoreapp3.1\métier.exe
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\métier\bin\Debug\netcoreapp3.1\métier.deps.json
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\métier\bin\Debug\netcoreapp3.1\métier.runtimeconfig.json
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\métier\bin\Debug\netcoreapp3.1\métier.runtimeconfig.dev.json
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\métier\bin\Debug\netcoreapp3.1\métier.dll
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\métier\bin\Debug\netcoreapp3.1\métier.pdb
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\métier\obj\Debug\netcoreapp3.1\métier.csprojAssemblyReference.cache
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\métier\obj\Debug\netcoreapp3.1\métier.AssemblyInfoInputs.cache
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\métier\obj\Debug\netcoreapp3.1\métier.AssemblyInfo.cs
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\métier\obj\Debug\netcoreapp3.1\métier.csproj.CoreCompileInputs.cache
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\métier\obj\Debug\netcoreapp3.1\métier.dll
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\métier\obj\Debug\netcoreapp3.1\métier.pdb
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\métier\obj\Debug\netcoreapp3.1\métier.genruntimeconfig.cache
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\métier\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\pierr\Documents\CESI\CESI 3ème année\Programmation Système\rattrapage\métier\obj\Debug\netcoreapp3.1\métier.csproj.CopyComplete
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\métier\bin\Debug\netcoreapp3.1\métier.exe
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\métier\bin\Debug\netcoreapp3.1\métier.deps.json
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\métier\bin\Debug\netcoreapp3.1\métier.runtimeconfig.json
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\métier\bin\Debug\netcoreapp3.1\métier.runtimeconfig.dev.json
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\métier\bin\Debug\netcoreapp3.1\métier.dll
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\métier\bin\Debug\netcoreapp3.1\métier.pdb
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\métier\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\métier\obj\Debug\netcoreapp3.1\métier.csprojAssemblyReference.cache
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\métier\obj\Debug\netcoreapp3.1\métier.AssemblyInfoInputs.cache
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\métier\obj\Debug\netcoreapp3.1\métier.AssemblyInfo.cs
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\métier\obj\Debug\netcoreapp3.1\métier.csproj.CoreCompileInputs.cache
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\métier\obj\Debug\netcoreapp3.1\métier.csproj.CopyComplete
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\métier\obj\Debug\netcoreapp3.1\métier.dll
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\métier\obj\Debug\netcoreapp3.1\métier.pdb
+C:\Users\donag\Documents\Documents\A COURS CESI\A3\RattrapageC--main\métier\obj\Debug\netcoreapp3.1\métier.genruntimeconfig.cache
